@@ -18,7 +18,7 @@ const TEMPLATE_CONFIG = [
       
       💟 
       
-      **{{birthday_message.DATA}}**
+      {{birthday_message.DATA}}
       
       **😘 {{one_talk.DATA}}**
 
