@@ -4,7 +4,7 @@ const TEMPLATE_CONFIG = [
     id: '0001',
     title: '亲爱的, 早上好',
     desc: `
-      **我的宝贝老婆媛儿小朋友大聪聪月月妈**
+      **爱你哦！我的宝贝老婆媛儿小朋友大聪聪月月妈**
       
       **{{date.DATA}}**
       
@@ -14,9 +14,7 @@ const TEMPLATE_CONFIG = [
       
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}} 
       
-      今天是我们在一起的第{{love_day.DATA}}天
-      
-      距离我们的结婚纪念日还有{{marry_day.DATA}}天
+      今天是我们在一起的第{{love_day.DATA}}天    
       
       {{birthday_message.DATA}}
       
