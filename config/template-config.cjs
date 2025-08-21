@@ -16,13 +16,12 @@ const TEMPLATE_CONFIG = [
       
       💑 今天是我们在一起的第{{love_day.DATA}}天    
       
-      💒{{birthday_message.DATA}}
+      💒 
+      {{birthday_message.DATA}}
       
-      😘 {{one_talk.DATA}} --- 你的静哥哥
+      😘 {{one_talk.DATA}}
 
       🥰 {{earthy_love_words.DATA}}
-      
-      💐 {{moment_copyrighting.DATA}}
       
       🌺 {{note_en.DATA}} 
       
