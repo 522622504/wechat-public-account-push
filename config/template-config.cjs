@@ -8,24 +8,25 @@ const TEMPLATE_CONFIG = [
       
       **🗓️ {{date.DATA}}**
       
-      ⛪ 城市：{{city.DATA}}
+      **⛪ 城市：{{city.DATA}}**
       
-      ☀️ 天气：{{weather.DATA}}
+      **☀️ 天气：{{weather.DATA}}**
       
-      🌡️ 气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}} 
+      **🌡️ 气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}} **
       
-      💑 今天是我们在一起的第{{love_day.DATA}}天    
+      **💑 今天是我们在一起的第{{love_day.DATA}}天   ** 
       
-      💒 
-      {{birthday_message.DATA}}
+      💟 
       
-      😘 {{one_talk.DATA}}
+      **{{birthday_message.DATA}}**
+      
+      **😘 {{one_talk.DATA}}**
 
-      🥰 {{earthy_love_words.DATA}}
+      **🥰 {{earthy_love_words.DATA}}**
       
-      🌺 {{note_en.DATA}} 
+      **🌺 {{note_en.DATA}} **
       
-      🌷 {{note_ch.DATA}}
+      **🌷 {{note_ch.DATA}}**
     `
   },
   {
