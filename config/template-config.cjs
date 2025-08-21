@@ -14,7 +14,7 @@ const TEMPLATE_CONFIG = [
       
       **🌡️ 气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}} **
       
-      **💑 <span style="color:pink; font-weight:bold;">今天是我们在一起的第 {{love_day.DATA}} 天</span>**
+      **💑 今天是我们在一起的第 {{love_day.DATA}} 天**
       
       💟 
       
