@@ -2,7 +2,7 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '💘 亲爱的, 早上好',
+    title: '💘 爱你每一天！',
     desc: `
       **❤️ 爱你哦！我的宝贝老婆媛儿小朋友大聪聪月月妈**
       
